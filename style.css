@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+}
+
+.contPar {
+  display: flex;
+  align-items: center;
+}
+
+.par {
+  margin: 1rem 0;
+}
+
+button {
+  width: 5rem;
+  height: 3rem;
+}
+
+.button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+span {
+  margin: 0 0.5rem;
+}
